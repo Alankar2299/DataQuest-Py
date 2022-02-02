@@ -1,5 +1,5 @@
 # DataQuest-Py
-My Python Knowledgebase
+My Python Knowledge base
 
 **Data Analysis for Online Grocery Store Instacart**
 
