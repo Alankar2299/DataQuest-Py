@@ -20,11 +20,12 @@ departments with highest frequency of product orders
 Customer profiling and insights from it
 
 **Python Scripts developed for the analysis**
-Please refer to the "03_Scripts" subfolder
+
+https://github.com/Alankar2299/Instacart-Online-Grocery-Store-Customer-Profiling/tree/main/Instacart%20Basket%20Analysis/03_Scripts
 
 **Final Analysis sent to client**
 
-Please refer to "220125_Final_report_Alankar_Dhumal.xlsx" located in the "05_Sent_To_client" subfolder
+
 
 
 
