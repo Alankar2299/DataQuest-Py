@@ -25,6 +25,7 @@ https://github.com/Alankar2299/Instacart-Online-Grocery-Store-Customer-Profiling
 
 **Final Analysis sent to client**
 
+https://github.com/Alankar2299/Instacart-Online-Grocery-Store-Customer-Profiling/tree/main/Instacart%20Basket%20Analysis/05_Sent_To_client
 
 
 
