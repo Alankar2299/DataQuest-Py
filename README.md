@@ -1,5 +1,5 @@
-# DataQuest-Py
-My Python Knowledge base
+# Instacart-Online-Grocery-Store-Customer-Profiling
+
 
 **Data Analysis for Online Grocery Store Instacart**
 
@@ -11,7 +11,7 @@ customers with applicable marketing campaigns to see whether they have an effect
 of their products. Your analysis will inform what this strategy might look like to ensure Instacart
 targets the right customer profiles with the appropriate products. 
 
-**Project Obectives**
+**Project Objectives**
 
 busiest days of the week and hours of the day
 times of the day when people spend the most money
